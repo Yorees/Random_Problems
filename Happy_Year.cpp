@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <cmath>
 
 // used std::stoi(var) function to convert the string var to integer
 /** 
